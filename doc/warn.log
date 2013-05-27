@@ -1,0 +1,243 @@
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:15: warning: Compound IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:16: warning: Compound CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:8: warning: Compound DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:9: warning: Compound DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:11: warning: Compound CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/common/ErrorCode.h:15: warning: Compound ErrorCode is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayer.h:18: warning: Compound CMyPlayerApp is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:15: warning: Compound DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/TypeCStatic.h:7: warning: Compound CTypeCStatic is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:7: warning: Compound CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:7: warning: Compound CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/olorCStatic.cpp:14: warning: documented function `ColorCStatic::ColorCStatic' was not declared or defined.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/olorCStatic.cpp:19: warning: documented function `ColorCStatic::~ColorCStatic' was not declared or defined.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.cpp:26: warning: Member DoDataExchange(CDataExchange *pDX) (function) of class CAboutDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:19: warning: Member PreSubclassWindow() (function) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:27: warning: Member OnMouseLeave(WPARAM wParam, LPARAM lParam) (function) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:29: warning: Member m_strDrawIcon (variable) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:30: warning: Member m_strMoveIcon (variable) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:31: warning: Member m_strLeaveIcon (variable) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:32: warning: Member gdiplusStartupInput (variable) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/ButtonEx.h:33: warning: Member gdiplusToken (variable) of class CButtonEx is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:103: warning: Member OnMaximize() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:106: warning: Member OnShowPL() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:107: warning: Member OnPlay() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:108: warning: Member OnStop() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:109: warning: Member OnCtlColor(CDC *pDC, CWnd *pWnd, UINT nCtlColor) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:110: warning: Member OnTimer(UINT_PTR nIDEvent) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:112: warning: Member OnHScroll(UINT nSBCode, UINT nPos, CScrollBar *pScrollBar) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:115: warning: Member OnDialogDestroyed(WPARAM wParam, LPARAM lParam) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:31: warning: Member dlgRect (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:32: warning: Member m_wndFrameImageBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:33: warning: Member m_wndCloseBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:34: warning: Member m_wndMaxBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:35: warning: Member m_wndMinBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:36: warning: Member m_wndPLBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:37: warning: Member m_wndVoiceBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:38: warning: Member m_wndPPBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:39: warning: Member m_wndNextBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:40: warning: Member m_wndPreBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:41: warning: Member m_wndStopBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:42: warning: Member m_ChangeColorBEX (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:44: warning: Member m_staFileTitle (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:45: warning: Member m_staTime (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:46: warning: Member m_staVArea (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:48: warning: Member m_sliVoice (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:49: warning: Member m_sliTempo (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:51: warning: Member playlistDlg (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:55: warning: Member m_strWndTitle (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:56: warning: Member m_strFileTitle (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:57: warning: Member m_strTimeShow (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:58: warning: Member m_strFilePath (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:60: warning: Member m_pPlayer (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:61: warning: Member m_iPlayState (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:63: warning: Member m_brBlackBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:64: warning: Member m_brLRedBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:65: warning: Member m_brLGreenBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:66: warning: Member m_brLBlueBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:67: warning: Member m_brPinkBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:68: warning: Member m_brOraBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:69: warning: Member m_pCurBrush (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:72: warning: Member m_mVArea (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:73: warning: Member m_mPL (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:76: warning: Member DoDataExchange(CDataExchange *pDX) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:79: warning: Member setAllPos() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:80: warning: Member setBExPos() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:81: warning: Member setCStaPos() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:82: warning: Member setCSliPos() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:84: warning: Member setShowTime(LONG curPosOfPlay) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:85: warning: Member setShowSysTime() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:87: warning: Member OnMenuOpen() (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:95: warning: Member OnSysCommand(UINT nID, LPARAM lParam) (function) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:27: warning: Member m_hIcon (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MyPlayerDlg.h:28: warning: Member m_bIsMax (variable) of class CMyPlayerDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:14: warning: Member setPosByCursor(CPoint point) (function) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:15: warning: Member getSize() (function) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:16: warning: Member isVolumeSlider() (function) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:24: warning: Member m_sliRect (variable) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:25: warning: Member m_iCurentPos (variable) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:26: warning: Member m_iSize (variable) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/MySliderCtrl.h:27: warning: Member m_bIsVol (variable) of class CMySliderCtrl is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:11: warning: Member CPlayListDlg(CWnd *pParent=NULL) (function) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:27: warning: Member OnClose() (function) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:18: warning: Member DoDataExchange(CDataExchange *pDX) (function) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:19: warning: Member PostNcDestroy() (function) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:22: warning: Member OnCtlColor(CDC *pDC, CWnd *pWnd, UINT nCtlColor) (function) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:24: warning: Member m_pParent (variable) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/PlayListDlg.h:25: warning: Member m_brBule (variable) of class CPlayListDlg is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/TypeCStatic.h:25: warning: Member setCtlType(COLORREF backColor, COLORREF textColor, CString caption) (function) of class CTypeCStatic is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/TypeCStatic.h:19: warning: Member m_strCaption (variable) of class CTypeCStatic is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/TypeCStatic.h:20: warning: Member m_BackColor (variable) of class CTypeCStatic is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/TypeCStatic.h:21: warning: Member m_TextColor (variable) of class CTypeCStatic is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:10: warning: Member DSGraphMode (enumeration) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:15: warning: Member DSGMode (typedef) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:18: warning: Member DSGParam(const std::string strFilePath, bool isDebug=true, bool isWnd=true) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:19: warning: Member DSGParam(const DSGParam &oParam) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:20: warning: Member operator=(const DSGParam &oParam) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:23: warning: Member getMode() const  (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:25: warning: Member setFile(std::string strFile) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:26: warning: Member getFile() const  (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:28: warning: Member setRenderWnd(HWND *pRenderWnd) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:29: warning: Member getRenderWnd() const  (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:31: warning: Member setNotifyWnd(HWND *pNotifyWnd) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:32: warning: Member getNotifyWnd() const  (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:34: warning: Member setWindowless(bool isWndless) (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:35: warning: Member isWindowless() const  (function) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:40: warning: Member m_uiMode (variable) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:42: warning: Member m_strFilePath (variable) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:43: warning: Member m_phRenderWnd (variable) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:44: warning: Member m_phNotifyWnd (variable) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGParam.h:45: warning: Member m_bIsWindowLess (variable) of class DSGParam is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:25: warning: Member getError(int status) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:28: warning: Member createGraph(DSGParam oParams) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:29: warning: Member runGraph() (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:30: warning: Member pauseGraph() (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:31: warning: Member stopGraph() (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:33: warning: Member isRunning() (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:34: warning: Member isPaused() (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:35: warning: Member isStopped() (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:38: warning: Member runningState() const  (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:39: warning: Member pausedState() const  (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:40: warning: Member stoppedState() const  (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:41: warning: Member initState() const  (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:43: warning: Member addError(const char *strErr) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:45: warning: Member createFilter(CLSID clsid, LPCWSTR pInFilterName, const char *pName=NULL) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:47: warning: Member connectPin(IPin *pInIn, IPin *pInOut) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:48: warning: Member getFilter(const char *pName=NULL) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:49: warning: Member getPin(IBaseFilter *pFilter, BOOL inInput=TRUE, const char *inPartialName=NULL) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:50: warning: Member getUnconnectedPin(IBaseFilter *pFilter, BOOL inInPut=TRUE) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:52: warning: Member getFilterInterface(IBaseFilter *pInFilter, REFIID inInterfaceID) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:53: warning: Member getFilterInterface(const char *pInFilterName, REFIID inInterfaceID) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:55: warning: Member getPinInterface(IPin *pInPin, REFIID inInterfaceID) (function) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:64: warning: Member m_pState (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:65: warning: Member m_pGraph (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:66: warning: Member m_pMediaCtrl (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:67: warning: Member m_pMediaEvent (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:68: warning: Member m_pMediaSeek (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:69: warning: Member m_pVolumeCtrl (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:70: warning: Member m_pVMRCtrl (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSGraph.h:71: warning: Member m_oGraphParam (variable) of class DSGraph is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:11: warning: Member DSVideoPlay(HWND hNotifyWnd, HWND hRenderWnd) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:16: warning: Member onResetWnd(void *pHdc) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:19: warning: Member SetSource(std::string sURL) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:21: warning: Member Play() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:22: warning: Member Pause() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:23: warning: Member Stop() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:25: warning: Member GetPosition() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:26: warning: Member SetPosition(LONG nPosition) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:28: warning: Member GetLength() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:30: warning: Member GetPlayState() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:32: warning: Member IsMute() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:33: warning: Member SetMute(BOOL bMute) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:35: warning: Member SetVolume(LONG nVolume) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:36: warning: Member GetVolume() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:38: warning: Member IsFullScreen() (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:39: warning: Member SetFullScreen(BOOL bFull=TRUE) (function) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:43: warning: Member m_hNotifyWnd (variable) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:44: warning: Member m_hRenderWnd (variable) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:45: warning: Member m_bIsFullScreen (variable) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/DSVideoPlay.h:46: warning: Member m_oVideoWndDC (variable) of class DSVideoPlay is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/common/ErrorCode.h:20: warning: Member addError(const char *strError) (function) of class ErrorCode is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/common/ErrorCode.h:22: warning: Member getError(int errorCode) const  (function) of class ErrorCode is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/common/ErrorCode.h:25: warning: Member m_iCurrentErrorCode (variable) of class ErrorCode is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/common/ErrorCode.h:26: warning: Member m_oError (variable) of class ErrorCode is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:20: warning: Member onResetWnd(void *pHdc)=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:23: warning: Member SetSource(std::string sURL)=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:25: warning: Member Play()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:26: warning: Member Pause()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:27: warning: Member Stop()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:29: warning: Member GetPosition()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:30: warning: Member SetPosition(LONG nPosition)=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:32: warning: Member GetLength()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:34: warning: Member GetPlayState()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:36: warning: Member IsMute()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:37: warning: Member SetMute(BOOL bMute)=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:39: warning: Member SetVolume(LONG nVolume)=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:40: warning: Member GetVolume()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:44: warning: Member IsFullScreen()=0 (function) of class IVideoPlayer is not documented.
+E:/原学习盘/Athrun'sWork/MyPlayer/MyPlayer/dshow/IVideoPlayer.h:45: warning: Member SetFullScreen(BOOL bFull=TRUE)=0 (function) of class IVideoPlayer is not documented.
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_c_my_player_dlg__coll__graph.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_graph__coll__graph.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_video_play__coll__graph.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_video_play__inherit__graph.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_graph__inherit__graph.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_i_video_player__inherit__graph.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_1.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_0.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_3.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_2.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_6.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_4.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_7.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_5.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/graph_legend.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_8.png' generated by dot!
+error: Could not open image `E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_9.png' generated by dot!
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_c_my_player_dlg__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_graph__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_graph__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_video_play__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_d_s_video_play__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/class_i_video_player__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_0.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_1.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_2.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_3.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_4.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_5.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_6.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_7.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_8.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/原学习盘/Athrun'sWork/MyPlayer/doc/html/inherit_graph_9.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.

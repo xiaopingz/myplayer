@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_d_s_video_play.html" title="{DSVideoPlay\n|# m_hNotifyWnd\l# m_hRenderWnd\l# m_bIsFullScreen\l# m_oVideoWndDC\l|+ DSVideoPlay()\l+ ~DSVideoPlay()\l+ onResetWnd()\l+ SetSource()\l+ Play()\l+ Pause()\l+ Stop()\l+ GetPosition()\l+ SetPosition()\l+ GetLength()\l+ GetPlayState()\l+ IsMute()\l+ SetMute()\l+ SetVolume()\l+ GetVolume()\l+ IsFullScreen()\l+ SetFullScreen()\l}" alt="" coords="16,907,184,1381"/>
+</map>

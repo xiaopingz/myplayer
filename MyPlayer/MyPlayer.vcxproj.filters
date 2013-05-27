@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{e7e6ad06-62a5-4ab2-9f00-a1e6885639b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dshow">
+      <UniqueIdentifier>{f2c400c8-5934-4e4d-b67b-fa7bfe0ee1cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dshow\state">
+      <UniqueIdentifier>{d9cc59b3-6927-4a29-8113-ec943c24f3f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ButtonEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyPlayerDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MySliderCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayListDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeCStatic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="common\ErrorCode.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\PConfigValue.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\PiniReader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\PSettings.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\DSGParam.cpp">
+      <Filter>dshow</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\DSGraph.cpp">
+      <Filter>dshow</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\DSVideoPlay.cpp">
+      <Filter>dshow</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\IVideoPlayer.cpp">
+      <Filter>dshow</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\state\DSInitState.cpp">
+      <Filter>dshow\state</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\state\DSPausedState.cpp">
+      <Filter>dshow\state</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\state\DSRunState.cpp">
+      <Filter>dshow\state</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\state\DSState.cpp">
+      <Filter>dshow\state</Filter>
+    </ClCompile>
+    <ClCompile Include="dshow\state\DSStopState.cpp">
+      <Filter>dshow\state</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ButtonEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InitDed.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyPlayerDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MySliderCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayListDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeCStatic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="common\ErrorCode.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\PConfigvalue.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\PiniReader.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\PSettings.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\DSGParam.h">
+      <Filter>dshow</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\DSGraph.h">
+      <Filter>dshow</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\DSVideoPlay.h">
+      <Filter>dshow</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\IVideoPlayer.h">
+      <Filter>dshow</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\state\DSInitState.h">
+      <Filter>dshow\state</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\state\DSPausedState.h">
+      <Filter>dshow\state</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\state\DSRunState.h">
+      <Filter>dshow\state</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\state\DSState.h">
+      <Filter>dshow\state</Filter>
+    </ClInclude>
+    <ClInclude Include="dshow\state\DSStopState.h">
+      <Filter>dshow\state</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\appleB.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MyPlayer.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MyPlayer.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MyPlayer.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_c_play_list_dlg.html" title="{CPlayListDlg\n|# m_pParent\l# m_brBule\l|+ CPlayListDlg()\l+ ~CPlayListDlg()\l+ OnClose()\l# DoDataExchange()\l# PostNcDestroy()\l# OnCtlColor()\l}" alt="" coords="5,105,179,319"/>
+<area shape="rect" id="node4" href="$class_c_type_c_static.html" title="{CTypeCStatic\n|# m_strCaption\l# m_BackColor\l# m_TextColor\l|+ CTypeCStatic()\l+ ~CTypeCStatic()\l+ setCtlType()\l# OnPaint()\l}" alt="" coords="203,115,363,309"/>
+<area shape="rect" id="node6" href="$class_c_button_ex.html" title="{CButtonEx\n|# m_strDrawIcon\l# m_strMoveIcon\l# m_strLeaveIcon\l# gdiplusStartupInput\l# gdiplusToken\l|+ CButtonEx()\l+ ~CButtonEx()\l+ DrawItem()\l# PreSubclassWindow()\l# OnCreate()\l# OnMouseMove()\l# OnMouseLeave()\l}" alt="" coords="387,65,584,359"/>
+<area shape="rect" id="node8" href="$class_c_my_slider_ctrl.html" title="{CMySliderCtrl\n|# m_sliRect\l# m_iCurentPos\l# m_iSize\l# m_bIsVol\l|+ CMySliderCtrl()\l+ ~CMySliderCtrl()\l+ setPosByCursor()\l+ getSize()\l+ isVolumeSlider()\l}" alt="" coords="608,95,776,329"/>
+<area shape="rect" id="node10" href="$class_i_video_player.html" title="{IVideoPlayer\n||+ IVideoPlayer()\l+ ~IVideoPlayer()\l+ onResetWnd()\l+ SetSource()\l+ Play()\l+ Pause()\l+ Stop()\l+ GetPosition()\l+ SetPosition()\l+ GetLength()\l+ GetPlayState()\l+ IsMute()\l+ SetMute()\l+ SetVolume()\l+ GetVolume()\l+ IsFullScreen()\l+ SetFullScreen()\l}" alt="" coords="800,5,952,419"/>
+</map>
